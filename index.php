@@ -1,7 +1,7 @@
 <?
 
 
-echo"Helo Word";
+echo"Ola meu PHP massa!";
 
 
 ?>
